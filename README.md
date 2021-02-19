@@ -1,9 +1,9 @@
 # PasswordCrusher
-Just a mad program, there is nothing interesting here
-Converts such passwords:
-  password
-To this:
-  p\*\*sw\*r\*
-  p\*ss\*\*\*d
-  \*a\*\*wo\*d
-  \*as\*\*or\*
+Just a mad program, there is nothing interesting here <br/>
+Converts such passwords: <br/>
+  password <br/>
+To this: <br/>
+  p\*\*sw\*r\* <br/>
+  p\*ss\*\*\*d <br/>
+  \*a\*\*wo\*d <br/>
+  \*as\*\*or\* <br/>
