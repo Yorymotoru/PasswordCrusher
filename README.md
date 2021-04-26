@@ -1,4 +1,4 @@
-# PasswordCrusher
+# Password сrusher
 Just a mad program, there is nothing interesting here <br/>
 Converts such passwords: <br/>
 > password <br/>
